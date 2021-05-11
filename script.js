@@ -2,7 +2,7 @@ let contentGridElement = document.getElementById('contentGrid');
 let jsonDatabase = [
   {
     "name" : "Spongebob Squarepants",
-    "picture_url" : "https://static.wikia.nocookie.net/characters/images/d/db/E0BE5AED-A4D6-48DB-BA0A-F95C302D7286-379-0000003D6305009F.png/revision/latest/top-crop/width/360/height/450?cb=20200417170741",
+    "picture_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png",
     "blurb" : "Aye-aye, captain!",
     "voice actor" : "Tom Kenny",
     "color" : "#f7e948"
