@@ -2,7 +2,7 @@ let contentGridElement = document.getElementById('contentGrid');
 let jsonDatabase = [
   {
     "name" : "Spongebob Squarepants",
-    "picture_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.pngg",
+    "picture_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png",
     "blurb" : "Aye-aye, captain!",
     "voice actor" : "Tom Kenny",
     "color" : "#f7e948"
