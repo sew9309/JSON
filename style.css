@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  font-family: 'Slackey', cursive;
+  color: #00316E;
+}
+
+.mainContainer{
+  width: 100vw;
+  height: 100vw;
+  background: url("Assets/SpongebobBBBackground.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding-top: 20px;
+}
+
+.header img {
+  width: 30vw;
+}
+
+.characterImage {
+  height: 70%;
+  width: 70%;
+}
+
+.contentGridDiv {
+  display: flex;
+  justify-content: center;
+}
+
+#contentGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr 1fr 1fr;
+  /* padding: 50px; */
+}
+
+.contentItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px 20px 20px 20px;
+  width: 450px;
+  height: 500px;
+  padding: 25px;
+}
