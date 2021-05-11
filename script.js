@@ -23,7 +23,7 @@ let jsonDatabase = [
 },
 {
   "name" : "Sandy Cheeks",
-  "picture_url" : "https://static.wikia.nocookie.net/heroes-and-villians/images/9/9c/343px-Sandy_Cheeks.svg.png/revision/latest?cb=20180319193945",
+  "picture_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/1200px-Sandy_Cheeks.svg.png",
   "blurb" : "Howdy, y'all!",
   "voice actor" : "Carolyn Lawrence",
   "color" : "#ce6bdb"
